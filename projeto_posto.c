@@ -1,3 +1,5 @@
+# Um estabelecimento está vendendo combustíveis com descontos variados. Para o etanol, se a quantidade comprada for até 15 litros, o desconto será de 2% por litro. Caso contrário, será de 4% por litro. Para o diesel, se a quantidade comprada for até 15 litros, o desconto será de 3% por litro. Caso contrário, será de 5% por litro. O preço do litro de diesel é R$ 2,00 e o preço do litro de etanol é R$ 1,70. Escreva um programa que leia a quantidade de litros vendidos e o tipo de combustível (E para etanol e D para diesel) e calcule o valor a ser pago pelo cliente
+
 # Coletamos a quantidade de litros e o tipo de combustível,
 # já deixando o caractere em maiúsculo para facilitar nossa análise
 quantidade_litros = float(input('Informe a quantidade de litros vendidos: '))
