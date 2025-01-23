@@ -21,3 +21,4 @@ elif -10 <= var_percentual < 2:
     print('Planejamento de políticas de incentivo às vendas.')
 else:
     print('Corte de gastos.')
+    
